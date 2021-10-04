@@ -7,6 +7,7 @@ DireccionIp= socket.gethostbyname(NombreHost)
 objetivo=socket.gethostbyname(DireccionIp)
 
 print("Escaneando...")
+print("Este proceso puede llevar unos minutos, por favor paciencia.")
 
 try:
   for port in range(1,150):

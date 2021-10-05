@@ -1,4 +1,4 @@
-from captcha.image import ImageCaptcha
+from captcha.image import ImageCaptcha  #pip install captcha
 from random import randrange
 
 image=ImageCaptcha(width=280, height=90)

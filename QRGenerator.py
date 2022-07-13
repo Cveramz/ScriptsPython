@@ -1,5 +1,5 @@
-import pyqrcode //pip install pyqrcode
-import png //pip install pypng
+import pyqrcode #pip install pyqrcode
+import png #pip install pypng
 print("QR GENERATOR\n\n")
 
 link = input("Ingrese un enlace: \n")
